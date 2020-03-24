@@ -1,5 +1,6 @@
-import argparse
+#!/usr/bin/env python3
 
+import argparse
 def protein_interface(pdb_file,Chain1,Chain2,dist_threshold):
 
     temp = []       #Stores the whole file as a list in temp
