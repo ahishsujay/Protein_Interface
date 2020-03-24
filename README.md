@@ -13,3 +13,4 @@ Many biological functions involve the formation of protein-protein complexes. A 
 
 ## Sample output:
 ![Sample_output_1](https://github.com/ahishsujay/Protein_Interface/blob/master/sample_output_1.png)
+![Sample_output_2](https://github.com/ahishsujay/Protein_Interface/blob/master/sample_output_2.png)
