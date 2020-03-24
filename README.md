@@ -12,5 +12,4 @@ Many biological functions involve the formation of protein-protein complexes. A 
 `./protein_interface.py -i <input PDB file> -c1 <Chain 1> -c2 <Chain 2> -t <distance threshold>`
 
 ## Sample output:
-![Sample_output_1]
-(/Users/ahishsujay/Desktop/Screen\ Shot\ 2020-03-24\ at\ 9.07.02\ AM.png)
+![Sample_output_1](https://github.com/ahishsujay/Protein_Interface/blob/master/sample_output_1.png)
